@@ -1,0 +1,29 @@
+------------------------------------------------------Privacy policy---------------------------------------------------------------------------
+
+------------------------------------------------------General terms----------------------------------------------------------------------------
+
+ Simple Voice Recorder is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using Simple Voice Recorder, you agree that your personal information will be handled as described in this Policy.
+
+The app has no internet access, so it is not sending anything outside the device whatsoever.
+
+Information being collected
+
+Simple Voice Recorder does not collect any personal identifiable information.
+
+The `RECORD_AUDIO` permission is used only for the main purpsoe of the app, for recording audio. The app has no internet access, so everything is staying on your device only.
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 01 March, 2022.
+
+------------------------------------------------------------Contact-----------------------------------------------------------------------------------------------------------------------
+
+If you have any questions about the Policy, please contact me via office@volkodmobiletechnology.com
+
+
